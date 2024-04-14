@@ -13,5 +13,9 @@ public class SILab1Main {
         for (int i = 0; i < n; i++) {
             list.add(sc.next());
         }
+	System.out.printIn("The elemnts you  enterred are:");
+	for(Systemvelement : list){
+	System.out.printIn(element);
+   }
     }
 }
